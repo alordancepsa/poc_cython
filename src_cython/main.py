@@ -1,7 +1,7 @@
 import time
 
-from lib.fibo import fibo_numbers
-from lib.primes import primes_main
+from functions.fibo import fibo_numbers
+from functions.primes import primes_main
 
 
 if __name__ == "__main__":
